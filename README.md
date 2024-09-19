@@ -41,7 +41,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 <a href="https://github.com/r-yvan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/MUGISHA-Pascal/MUGISHA-Pascal/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/r-yvan/r-yvan/output/github-contribution-grid-snake-dark.svg" />
 
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

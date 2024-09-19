@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+<div styles="font-family: JetBrains Mono">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rubuto Yvan
 ===================================================================================================================================
 
@@ -42,7 +46,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 <a href="https://github.com/r-yvan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/r-yvan/r-yvan/output/github-contribution-grid-snake-dark.svg" />
-
+</div>
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

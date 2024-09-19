@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on ..
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/r-yvan/r-yvan/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/r-yvan/r-yvan/output/github-contribution-grid-snake-dark.svg" />
 
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

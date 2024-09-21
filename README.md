@@ -40,6 +40,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-contribution-grid-snake-dark.svg" />
+![snake gif](https://github.com/r-yvan/r-yvan/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

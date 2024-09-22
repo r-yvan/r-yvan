@@ -46,9 +46,9 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/r-yvan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-yvan&theme=discord_old_blurple" height="180em" />&nbsp;
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-yvan&theme=discord_old_blurple" height="180em" /></br></br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-yvan&theme=discord_old_blurple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-yvan&theme=discord_old_blurple" height="240em" />&nbsp;
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-yvan&theme=discord_old_blurple" height="240em" /></br></br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-yvan&theme=discord_old_blurple" height="240em" />
 </div>
 
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />

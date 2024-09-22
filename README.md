@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=500&color=A855F7&width=1000&height=80&lines=Hello+There!!;+Welcome+to +My+Github+Profile!!;+My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Full+Stack+Developer+;I'm+Stronger%F0%9F%92%AA+I'm+Smarter%F0%9F%A7%A0!!;I'm+Better%F0%9F%98%8E!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=500&color=A855F7&width=1000&height=80&lines=Hello+There!!;+My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Full+Stack+Developer+;I'm+Stronger%F0%9F%92%AA+I'm+Smarter%F0%9F%A7%A0!!;I'm+Better%F0%9F%98%8E!!)](https://git.io/typing-svg)
 ========================================================================================================================================================================================================================================================
 
 Alien👽 Stack Web Developer

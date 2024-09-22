@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rubuto Yvan
-===================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=500&color=A855F7&width=1000&height=80&lines=Hello+There!!;+Welcome+to +My+Github+Profile!!;+My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Full+Stack+Developer+;I'm+Stronger%F0%9F%92%AA+I'm+Smarter%F0%9F%A7%A0!!;I'm+Better%F0%9F%98%8E!!)](https://git.io/typing-svg)
+========================================================================================================================================================================================================================================================
 
 Alien👽 Stack Web Developer
----------------------------
+===========================
 
 I've been getting Coding and Cyber Security Skills in Rwanda Coding Academy and I am open to work on any Project that needs help. Thanks a lot!! 😇
 
 * 🌍  I'm based in Kigali City
-* ✉️  You can contact me at [yvankiliye.rubuto@gmail.com](mailto:yvankiliye.rubuto@gmail.com)
+* ✉️  You can e-mail me at [yvankiliye.rubuto@gmail.com](mailto:yvankiliye.rubuto@gmail.com)
 * 🧠  I'm currently learning Java
 * 🤝  I'm open to collaborating on any Project
 * ⚡  And I'm secretly an Alien that's all...
@@ -32,13 +33,26 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/r-yvan"><img src="https://github-readme-stats.vercel.app/api?username=r-yvan&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="r-yvan's GitHub stats" /></a>
+<a href="http://www.github.com/r-yvan"><img src="https://github-readme-stats.vercel.app/api?username=r-yvan&show_icons=true&hide=prs,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="r-yvan's GitHub stats" /></a>
 
 <a href="http://www.github.com/r-yvan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/r-yvan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/r-yvan/r-yvan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=r-yvan&repo=r-yvan&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/r-yvan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-yvan&theme=discord_old_blurple" height="180em" />&nbsp;
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-yvan&theme=discord_old_blurple" height="180em" /></br></br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-yvan&theme=discord_old_blurple" height="180em" />
+</div>
+
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
+
 
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

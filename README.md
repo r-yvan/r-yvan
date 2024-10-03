@@ -1,5 +1,3 @@
-![Group  1](https://github.com/user-attachments/assets/30d253eb-3012-424c-b58a-aa71b96fed18)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=50&duration=3000&pause=500&color=A855F7&width=1500&height=100&lines=Hello+There+People%F0%9F%91%8B!!;Welcome+to+my+Github+Profile%F0%9F%98%87!!;My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Full+Stack+Developer%F0%9F%98%8E!!)](https://git.io/typing-svg)
 ========================================================================================================================================================================================================================================================
 Alien👽 Stack Web Developer
@@ -51,8 +49,6 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-yvan&theme=discord_old_blurple" height="240em" />
 </div>
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
-
-![Group 2](https://github.com/user-attachments/assets/2317a8b8-bedb-4f83-9125-fd5a68c0143b)
 
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,15 +31,13 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/r-yvan"><img src="https://github-readme-stats.vercel.app/api?username=r-yvan&show_icons=true&hide=prs,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="r-yvan's GitHub stats" /></a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&24&hide_border=true&locale=en&show_icons=true)
 <a href="http://www.github.com/r-yvan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r-yvan&bg_color=181824&color=914bd6&line=914bd6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/r-yvan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&24&hide_border=true&locale=en&layout=donut-vertical)](https://github.com/r-yvan/github-readme-stats)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/r-yvan/r-yvan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=r-yvan&repo=r-yvan&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/r-yvan/my-react-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=r-yvan&repo=my-react-portfolio&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
 

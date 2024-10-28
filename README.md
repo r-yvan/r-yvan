@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=50&duration=3000&pause=500&color=A855F7&width=1500&height=100&lines=Hello+There+People%F0%9F%91%8B!!;Welcome+to+my+Github+Profile%F0%9F%98%87!!;My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Full+Stack+Developer%F0%9F%98%8E!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=50&duration=3000&pause=500&color=A855F7&width=1500&height=100&lines=Hello+There+People%F0%9F%91%8B!!;Welcome+to+my+Github+Profile%F0%9F%98%87!!;My+Name+is+Rubuto+Yvan%F0%9F%91%BD;The+World's+Best+Frontend+Developer%F0%9F%98%8E!!)](https://git.io/typing-svg)
 ========================================================================================================================================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=4000&pause=1000&color=A855F7&width=800&height=100&lines=UI%2FUX+Designer+%26+Frontend+Developer)](https://git.io/typing-svg)
-========================================================================================================================================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=A855F7&repeat=false&width=1000&height=100&lines=UI%2FUX+Designer+%26+Frontend+Developer)](https://git.io/typing-svg)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I've been getting Coding and Cyber Security Skills in Rwanda Coding Academy and I am open to work on any Project that needs help. Thanks a lot!! 😇
 

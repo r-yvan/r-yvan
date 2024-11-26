@@ -40,9 +40,9 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 <div width="100%" align="center"><a href="https://github.com/r-yvan/my-react-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=r-yvan&repo=my-react-portfolio&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
-
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

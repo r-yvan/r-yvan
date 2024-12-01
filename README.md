@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=A855F7&repeat=false&width=1000&height=70&lines=UI%2FUX+Designer+%26+Frontend+Developer)](https://git.io/typing-svg)
 
 
-I've been getting Coding and Cyber Security Skills in Rwanda Coding Academy and I am open to work on any Project that needs help. Thanks a lot!! 😇
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=0&color=D0D0D0&multiline=true&repeat=false&width=1900&height=400&lines=I+am+a+passionate+and+highly+skilled+developer+with+a+solid+foundation+in+coding+and+cyber;+security%2C+proudly+honed+at+Rwanda+Coding+Academy.+With+a+deep+understanding+of+programming;+principles+and+a+creative+mindset%2C+I+have+developed+expertise+in+modern+mobile+%26+web+develop;+ment+and+also+python+and+bash+script+for+hacking+and+cyber+security.+My+dedication+to+learning;+and+problem-solving+enables+me+to+transform+complex+challenges+into+efficient+and+scalable;+solutions+and+that+is+why+I+am+ready+and+excited+to+contribute+to+any+project+that+seeks+innovative;+and+reliable+solutions.)](https://git.io/typing-svg)
 * 🌍  I'm based in Kigali City
 * ✉️  You can e-mail me at [yvankiliye.rubuto@gmail.com](mailto:yvankiliye.rubuto@gmail.com)
 * 🧠  I'm currently learning Java

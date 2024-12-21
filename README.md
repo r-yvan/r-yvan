@@ -29,9 +29,6 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 ### Badges
 <b>My GitHub Stats</b>
-
-# My GitHub Stats
-
 <table>
   <tbody>
   <tr>
@@ -48,7 +45,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&show_icons=true" alt="GitHub Stats" />
+      <img width=600px src="https://github-readme-stats.vercel.app/api?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&show_icons=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>

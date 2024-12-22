@@ -30,23 +30,20 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 ### Badges
 <b>My GitHub Stats</b>
 <table>
-  <tbody>
   <tr>
     <td rowspan="2">
       <a href="https://github.com/r-yvan/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&layout=donut-vertical" alt="Top Languages" />
       </a>
     </td>
-    <td>
-      <a href="http://www.github.com/r-yvan">
+        <td>
+      <a href="https://github.com/r-yvan">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=0d1117&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img width=600px src="https://github-readme-stats.vercel.app/api?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&show_icons=true" alt="GitHub Stats" />
-    </td>
+  <tr rowspan="2">
+
   </tr>
   <tr>
     <td colspan="2">
@@ -55,14 +52,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/r-yvan/my-react-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=r-yvan&repo=my-react-portfolio&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en" alt="Pinned Repository" />
-      </a>
-    </td>
-  </tr>
-  </tbody>
+
 </table>
 
 

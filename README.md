@@ -27,33 +27,20 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 ### Badges
 <b>My GitHub Stats</b>
-<table>
-  <tr>
-    <td rowspan="2">
-      <a href="https://github.com/r-yvan/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&layout=donut-vertical" alt="Top Languages" />
-      </a>
-    </td>
-        <td>
-      <a href="https://github.com/r-yvan">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=0d1117&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr rowspan="2">
-
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-yvan&bg_color=0d1117&color=914bd6&line=914bd6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-      </a>
-    </td>
-  </tr>
-
-</table>
 
 
+<a href="https://github.com/r-yvan/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=101019&hide_border=true&locale=en&layout=donut-vertical" alt="Top Languages" />
+</a>
+<a>
+  <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=10101a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" alt=""/>
+</a>
+<a href="https://github.com/r-yvan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-yvan&stroke=ffffff&background=10101a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</a> 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-yvan&bg_color=10101a&color=914bd6&line=914bd6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</a>
 <img alt="GitHub Snake" src="https://github.com/r-yvan/r-yvan/blob/output/github-snake-dark.svg" />
 <!---
 r-yvan/r-yvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

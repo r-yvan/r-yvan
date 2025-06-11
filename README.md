@@ -6,8 +6,8 @@
 * ✉️  You can e-mail me at [yvankiliye.rubuto@gmail.com](mailto:yvankiliye.rubuto@gmail.com)
 * 🧠  I'm currently learning Java
 * 🤝  I'm open to collaborating on any Project
-* ⚡   And I'm secretly an Alien, never tell anyone else
-* 🔔  My Projects are still under development stay tuned...
+* ⚡   And I'm secretly an Alien, never tell anyone else 🤫
+* 🔔  My Projects are still under development stay tuned 😉...
 
   
 <a href="https://www.github.com/r-yvan" target="_blank" rel="noreferrer"><img

@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/nr_ivan011?logo=twitter&style=for-the
 
 
 <a href="https://github.com/r-yvan/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=151520&hide_border=true&locale=en&layout=donut-vertical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-yvan&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=151520&hide_border=true&locale=en&layout=donut-vertical" alt="Top Languages" />
 </a>
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=r-yvan&show_icons=true&text_color=ffffff&icon_color=a855f7&title_color=a855f7&bg_color=151520&hide_border=true&theme=radical" alt=""/>
